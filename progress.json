@@ -275,5 +275,14 @@
       "You have reset the repository to the correct state!"
     ],
     "status": "Completed"
+  },
+  {
+    "exercise_name": "sensors-reset",
+    "started_at": 1787478198.048909,
+    "completed_at": 1787478201.195212,
+    "comments": [
+      "The head commit should be the commit from Jan 11."
+    ],
+    "status": "Incomplete"
   }
 ]
