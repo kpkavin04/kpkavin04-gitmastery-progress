@@ -293,5 +293,14 @@
       "The head commit should be the commit from Jan 11."
     ],
     "status": "Incomplete"
+  },
+  {
+    "exercise_name": "sensors-revert",
+    "started_at": 1787478546.137851,
+    "completed_at": 1787478547.511,
+    "comments": [
+      "Good work reverting commits!"
+    ],
+    "status": "Completed"
   }
 ]
